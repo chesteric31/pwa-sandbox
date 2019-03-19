@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1552993550450,
+  "timestamp": 1553024130158,
   "index": "https://chesteric31.github.io/pwa-sandbox/index.html",
   "assetGroups": [
     {
@@ -46,8 +46,8 @@
     "https://chesteric31.github.io/pwa-sandbox/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://chesteric31.github.io/pwa-sandbox/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://chesteric31.github.io/pwa-sandbox/es2015-polyfills.c5dd28b362270c767b34.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
-    "https://chesteric31.github.io/pwa-sandbox/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://chesteric31.github.io/pwa-sandbox/index.html": "6b780a2228bd60d636bf2f55974dc09f40ea4bd8",
+    "https://chesteric31.github.io/pwa-sandbox/favicon.ico": "f4694b13297059d99d4b27e4464a64605fe9dda6",
+    "https://chesteric31.github.io/pwa-sandbox/index.html": "6f2b1bdc2cfe7548f3d12b5fa5be15f898b00efc",
     "https://chesteric31.github.io/pwa-sandbox/main.1d4faa89f2945ae1ccb1.js": "9b96d491b372dc8be7b08a32034b8d4a5a0f0988",
     "https://chesteric31.github.io/pwa-sandbox/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "https://chesteric31.github.io/pwa-sandbox/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
