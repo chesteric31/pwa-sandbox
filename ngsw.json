@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1553024130158,
+  "timestamp": 1553024489048,
   "index": "https://chesteric31.github.io/pwa-sandbox/index.html",
   "assetGroups": [
     {
@@ -23,6 +23,11 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "https://chesteric31.github.io/pwa-sandbox/assets/android-chrome-192x192.png",
+        "https://chesteric31.github.io/pwa-sandbox/assets/apple-touch-icon.png",
+        "https://chesteric31.github.io/pwa-sandbox/assets/browserconfig.xml",
+        "https://chesteric31.github.io/pwa-sandbox/assets/favicon-16x16.png",
+        "https://chesteric31.github.io/pwa-sandbox/assets/favicon-32x32.png",
         "https://chesteric31.github.io/pwa-sandbox/assets/icons/icon-128x128.png",
         "https://chesteric31.github.io/pwa-sandbox/assets/icons/icon-144x144.png",
         "https://chesteric31.github.io/pwa-sandbox/assets/icons/icon-152x152.png",
@@ -30,13 +35,20 @@
         "https://chesteric31.github.io/pwa-sandbox/assets/icons/icon-384x384.png",
         "https://chesteric31.github.io/pwa-sandbox/assets/icons/icon-512x512.png",
         "https://chesteric31.github.io/pwa-sandbox/assets/icons/icon-72x72.png",
-        "https://chesteric31.github.io/pwa-sandbox/assets/icons/icon-96x96.png"
+        "https://chesteric31.github.io/pwa-sandbox/assets/icons/icon-96x96.png",
+        "https://chesteric31.github.io/pwa-sandbox/assets/mstile-150x150.png",
+        "https://chesteric31.github.io/pwa-sandbox/assets/safari-pinned-tab.svg"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
+    "https://chesteric31.github.io/pwa-sandbox/assets/android-chrome-192x192.png": "b92d6b96dcc1ea91c2021a67151834eab1e99d2e",
+    "https://chesteric31.github.io/pwa-sandbox/assets/apple-touch-icon.png": "ac7533a9a62d57a25d11e69429b2f3acd3267710",
+    "https://chesteric31.github.io/pwa-sandbox/assets/browserconfig.xml": "2537cc5630b6706bbabe458538c8a1500aadfd24",
+    "https://chesteric31.github.io/pwa-sandbox/assets/favicon-16x16.png": "5fedecfeb605ae65f28bc74acf67b2f6a2bffe82",
+    "https://chesteric31.github.io/pwa-sandbox/assets/favicon-32x32.png": "27de10143bd20c7052b69fe3104681252f48797f",
     "https://chesteric31.github.io/pwa-sandbox/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "https://chesteric31.github.io/pwa-sandbox/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "https://chesteric31.github.io/pwa-sandbox/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -45,6 +57,8 @@
     "https://chesteric31.github.io/pwa-sandbox/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "https://chesteric31.github.io/pwa-sandbox/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://chesteric31.github.io/pwa-sandbox/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://chesteric31.github.io/pwa-sandbox/assets/mstile-150x150.png": "1734dd0c51847395eb4693d15f598c498543c32b",
+    "https://chesteric31.github.io/pwa-sandbox/assets/safari-pinned-tab.svg": "22458bb86f02808d6f654137f1778fc4abd02ffd",
     "https://chesteric31.github.io/pwa-sandbox/es2015-polyfills.c5dd28b362270c767b34.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
     "https://chesteric31.github.io/pwa-sandbox/favicon.ico": "f4694b13297059d99d4b27e4464a64605fe9dda6",
     "https://chesteric31.github.io/pwa-sandbox/index.html": "6f2b1bdc2cfe7548f3d12b5fa5be15f898b00efc",
